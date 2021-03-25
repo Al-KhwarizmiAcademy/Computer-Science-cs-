@@ -1,6 +1,6 @@
 # [أكاديمية الخوارزمي [علوم الحاسب 
  ### 
-![اكاديمية (2)](https://user-images.githubusercontent.com/50814675/112473211-1eadc600-8d7f-11eb-803f-b695edc5001b.png)
+![2](https://user-images.githubusercontent.com/50814675/112494020-bb7a5e80-8d93-11eb-922f-5e90019873ed.png)
 ### 
 ###  **نبذه تعريفية  عن أكاديمية الخوارزمي** 
 
